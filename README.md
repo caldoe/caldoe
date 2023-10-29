@@ -6,3 +6,8 @@
 <br>
 <br>
 Hello, my name is Calvin and I am a bachelor student at the <a href="https://www.hs-anhalt.de/en/start-page.html">Anhalt University of Applied Sciences (HSA)</a>, majoring in <a href="https://www.hs-anhalt.de/en/study/orientation/degree-programs/detail/applied-computer-science-digital-media-and-game-development-bachelor-of-science-1.html">Applied Computer Science - Digital Media and Game Development</a>.
+
+<h2>Game Jams</h2>
+<ul>
+  <li><a href="https://itch.io/jam/spooky-2d-jam-23/rate/2324034">Spooky 2D Jam '23</a> as <a href="https://platonium.itch.io/">platonium</a></li>
+</ul>
