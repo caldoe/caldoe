@@ -5,7 +5,10 @@
 </h1>
 <br>
 <br>
-Hello, my name is Calvin and I am a bachelor student at the <a href="https://www.hs-anhalt.de/en/start-page.html">Anhalt University of Applied Sciences (HSA)</a>, majoring in <a href="https://www.hs-anhalt.de/en/study/orientation/degree-programs/detail/applied-computer-science-digital-media-and-game-development-bachelor-of-science-1.html">Applied Computer Science - Digital Media and Game Development</a>.
+Hello, my name is Calvin.
+I have a Bachelor's degree in <a href="https://www.hs-anhalt.de/en/study/orientation/degree-programs/detail/applied-computer-science-digital-media-and-game-development-bachelor-of-science-1.html">Applied Computer Science - Digital Media and Game Development</a> from the <a href="https://www.hs-anhalt.de/en/start-page.html">Anhalt University of Applied Sciences (HSA)</a>.
+
+
 
 <h2>Game Jams</h2>
 <ul>
