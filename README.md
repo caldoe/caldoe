@@ -16,4 +16,5 @@ I have a Bachelor's degree in <a href="https://www.hs-anhalt.de/en/study/orienta
   <li><a href="https://itch.io/jam/spring-2d-jam-2024/rate/2716104">Spring 2D Jam '24</a> as <a href="https://platonium.itch.io/">platonium</a></li>
   <li><a href="https://itch.io/jam/spooky-2d-jam-24/rate/3065876">Spooky 2D Jam '24</a> as <a href="https://platonium.itch.io/">platonium</a></li>
   <li><a href="https://itch.io/jam/spring-2d-jam-2025/rate/3504530">Spring 2D Jam '25</a> as <a href="https://platonium.itch.io/">platonium</a></li>
+  <li><a href="https://itch.io/jam/spooky2djam25/rate/3951347">Spooky 2D Jam '25</a> as <a href="https://platonium.itch.io/">platonium</a></li>
 </ul>
